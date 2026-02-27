@@ -5,7 +5,7 @@ Raw sensor-based electricity data lacked structured insights for monitoring usag
 
 Interactive electricity monitoring dashboard built in Power BI to analyze voltage, current, power consumption, energy trends, and system efficiency using real-time sensor data.
 
-![Electricity Dashboard](images/Page0.png)
+![Electricity Dashboard](images/Page1.png)
 
 This project is an end-to-end Electricity Data Analytics Dashboard developed using **Python (Pandas)** and **Power BI**. The dataset contains **58,809 time-series records** collected from an Instrux electricity monitoring system between **January 1, 2025 and January 23, 2025**.
 
